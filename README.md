@@ -32,6 +32,13 @@ A modern full-stack web application designed to streamline workflows and improve
 
 ---
 
+## 🔧 Future Improvements:
+1. Dashboard and analytics features
+2. Third-party API integrations
+3. AI-powered enhancements
+
+---
+
 ## 🚀 Getting Started
 
 ### Clone the repository
@@ -39,19 +46,7 @@ A modern full-stack web application designed to streamline workflows and improve
 git clone https://github.com/sahithireddys/applypilot.git
 cd applypilot
 
-Install dependencies
 npm install
 
-Run the development server
 npm run dev
 
-Open in browser:
-
-🔧 Future Improvements:
-1. Dashboard and analytics features
-2. Third-party API integrations
-3. AI-powered enhancements
-
-👤 Author:
-Sahithi Reddy
-GitHub: https://github.com/sahithireddys
