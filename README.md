@@ -32,17 +32,6 @@ A modern full-stack web application designed to streamline workflows and improve
 
 ---
 
-## 📂 Project Structure
-applypilot/
-├── app/
-├── components/
-├── public/
-├── styles/
-├── utils/
-└── README.md
-
----
-
 ## 🚀 Getting Started
 
 ### Clone the repository
